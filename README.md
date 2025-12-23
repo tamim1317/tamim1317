@@ -4,26 +4,26 @@
 
 <!-- Hero banner -->
 <p align="center">
-  <img src="https://github.com/mdtamimhossain/mdtamimhossain/raw/main/assets/banner.png" alt="Hero Banner" width="1000"/>
+  <img src="https://github.com/tamim1317/tamim1317/raw/main/assets/banner.png" alt="Hero Banner" width="1000"/>
   <br>
   <sub><i>Turning ideas into beautiful, scalable code ✨</i></sub>
 </p>
 
 <!-- Social links -->
 <div align="center">
-  <a href="https://twitter.com/mdtamimhossain">
+  <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/mdtamimhossain">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/mdtamimhossain">
+  <a href="https://github.com/tamim1317">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://mdtamimhossain.com" target="_blank">
+  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:mdtamimhossain.dev@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -35,15 +35,15 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdtamimhossain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tamim's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tamim1317&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tamim's GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtamimhossain&theme=radical&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamim1317&theme=radical&hide_border=true" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtamimhossain&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim1317&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <!-- Quote -->
